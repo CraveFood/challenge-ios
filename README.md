@@ -1,5 +1,11 @@
 # iOS Challenge 01
 
+### Job position
+
+This challenge refers to next job announcement
+
+https://apply.workable.com/whatsgood/j/1F1CF597B0/
+
 ### Test for new iOS Developers
 
 The test is about developing a project using open itunes API to list music videos with information as:
@@ -40,6 +46,8 @@ Use apple design guidelines: https://developer.apple.com/ios/human-interface-gui
 * Configure Fastlane for automate build and deploy
 * Be able to develop screens in **xib/storyboard/code**.
 * Be able to use REST and parse its responses.
+
+
 
 
 Good luck!
