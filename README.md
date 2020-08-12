@@ -36,7 +36,7 @@ Use apple design guidelines: https://developer.apple.com/ios/human-interface-gui
 * Use Dependency Injections.
 * Autolayout using storyboard and code.
 * At least one UI Tests and Unit Tests using XCTest.
-
+* Error handling and retry requests.
 * Rx programming is optional if candidate evaluates important for VIPER architecture. 
 
 
